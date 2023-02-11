@@ -1,0 +1,258 @@
+
+ Key phrases in article #1: Microsoft FY22 Fourth Quarter Earnings Conference Call
+ Key phrases in article #2: Brett Iversen, Satya Nadella, Amy Hood
+ Key phrases in article #3: Tuesday, July
+ Key phrases in article #4: chief executive officer, chief financial officer, chief accounting officer, deputy general counsel, BRETT IVERSEN, Satya Nadella, Amy Hood, Alice Jolla, Keith Dolliver, afternoon, call, chairman
+ Key phrases in article #5: Microsoft Investor Relations website, financial summary slide deck, earnings press release, GAAP financial measures, prepared remarks, today, call, reconciliation, differences
+ Key phrases in article #6: fourth quarter performance, additional clarifying items, GAAP financial measures, financial performance, financial results, GAAP metrics, call, substitute, accordance, investors, company, impact, events
+ Key phrases in article #7: foreign currency rate fluctuations, growth rate, constant currency, growth comparisons, corresponding period, last year, underlying businesses, call, framework, effect
+ Key phrases in article #8: Microsoft Investor Relations website, prepared remarks, live transmission, future use, complete transcript, call, question, recording
+ Key phrases in article #9: earnings press release, risk factor section, future events, current expectations, Actual results, Form 10-K, other reports, Exchange Commission, forward-looking statement, looking statements, other statements, conference call, predictions, projections, assumptions, risks, uncertainties, factors, today, comments, Forms, 10-Q, filings, Securities, duty
+ Key phrases in article #10: call, Satya
+ Key phrases in article #11: SATYA NADELLA, Brett
+ Key phrases in article #12: macroeconomic environment, Microsoft Cloud, 25 billion dollars, quarterly revenue, first time, constant currency, 28 percent, 33 percent
+ Key phrases in article #13: real opportunity, digital technology, customers, organizations, industry, challenges
+ Key phrases in article #14: three things, environment
+ Key phrases in article #15: digital imperative, company, Microsoft, organizations, less
+ Key phrases in article #16: unique, differentiated value, business applications, hybrid work, infrastructure, data, customers
+ Key phrases in article #17: long-term structural advantage, new businesses, share, categories
+ Key phrases in article #18: intense focus, executional excellence, operational leverage, period, prioritization, operations
+ Key phrases in article #19: progress, Azure
+ Key phrases in article #20: IT investments, Organizations, industry, cloud, demand
+ Key phrases in article #21: one billion dollar-plus deals, longer-term commitments, record number, 100 million dollar, larger
+ Key phrases in article #22: new Microsoft Cloud, public sector customers, other provider, next year, privacy requirements, datacenter regions, 10 regions, Sovereignty, security
+ Key phrases in article #23: Azure Arc, prem, edge, multi-cloud environments, customers, companies, GM, Greggs, UBS, Uniper, apps
+ Key phrases in article #24: mission critical workloads, key operational workloads, internal IT workloads, American Airlines, data warehouse, customers, Azure, example, cloud, Telstra
+ Key phrases in article #25: SAP apps, Kraft Heinz, ERP workloads, platform, choice, cloud, Leaders, industry, Fujitsu, Unilever, Azure
+ Key phrases in article #26: new service, Oracle workloads, public cloud, direct access, Oracle databases, Oracle Cloud, adoption, Azure, simplified
+ Key phrases in article #27: data, AI
+ Key phrases in article #28: Microsoft Intelligent Data Platform, complete data fabric, fragmented data estate, operational databases, analytics, governance, customers, value
+ Key phrases in article #29: Swiss Re, data solutions, More, 65 percent, Fortune 1000, market, leaders, industry, LaLiga, Lenovo, Walgreens, tools
+ Key phrases in article #30: demanding, mission-critical workloads, Cosmos DB, data volume, fourth quarter, world, scale, Transactions, year, row
+ Key phrases in article #31: large AI models, paradigm shift, powerful platforms, world
+ Key phrases in article #32: Azure OpenAI Service, diverse set, RTL Group, language models, advanced scenarios, code generation, customers, HSBC, PwC, Shell, Wipro, content
+ Key phrases in article #33: developer tools
+ Key phrases in article #34: popular developer tools, Ahold Delhaize, cloud, platform, Leaders, industry, KPMG, Philips, GitHub, software
+ Key phrases in article #35: kind AI pair programmer, GitHub Copilot, developers, code, More, 400,000 people
+ Key phrases in article #36: resilient cloud native applications, Azure Container services, expanding portfolio, H&M, triple digits, organizations, revenue
+ Key phrases in article #37: Power Platform
+ Key phrases in article #38: Power Platform, domain experts, productivity gains, time
+ Key phrases in article #39: 25 million monthly active users
+ Key phrases in article #40: citizen developers, business solutions, teams, pro, end
+ Key phrases in article #41: Zurich Insurance, Power Platform, AB, InBev, ARM, Equinor, Toyota, Vodafone, centers, excellence, employees, scale
+ Key phrases in article #42: PG&E, manual processes, employee workflows, example, 720,000 hours, redundant
+ Key phrases in article #43: Dynamics
+ Key phrases in article #44: supply chain functions, customer experience, organizations, service, finance, market, category
+ Key phrases in article #45: new Microsoft Digital Contact Center Platform, enterprise AI capabilities, omnichannel customer engagement, Microsoft Teams, Dynamics 365, Nuance, customers, HP
+ Key phrases in article #46: Dynamics 365 Intelligent Order Management, supply chain disruptions, new integrations, Teams, people, flow, work
+ Key phrases in article #47: pressing challenges, customers, organizations
+ Key phrases in article #48: call center organizations, customer service operations, field service, supply chain, business applications, Peet, Coffee, Carlsberg, Visa, Dynamics, sales
+ Key phrases in article #49: cross-industry clouds, strong adoption, platform-driven approach, digital imperative, organizations
+ Key phrases in article #50: healthcare value chain, Microsoft Cloud, meaningful clinical, financial outcomes, example, Nuance, platform, choice, companies
+ Key phrases in article #51: care delivery, health plan, member experience, health services, technology partner, significant differentiator, provider, retailer, success
+ Key phrases in article #52: DAX ambient intelligence solution, new digital strategy, Intermountain Healthcare, example, Cloud, Nuance, pillar
+ Key phrases in article #53: Microsoft, Teams
+ Key phrases in article #54: economic environment, employee flexibility, organization, productivity
+ Key phrases in article #55: Hybrid work, organizations, workforce, home, office
+ Key phrases in article #56: digital fabric, companies, employees, customers, partners, cost, complexity
+ Key phrases in article #57: past year, knowledge workers, Teams, 450 capabilities, frontline, person
+ Key phrases in article #58: higher usage intensity, digital transformation, business processes, Teams, share, category, collaboration, chat, meetings, companies, platform, flow, work
+ Key phrases in article #59: deep integrations, Lumen Technologies, Progressive Insurance, custom line, business apps, ISVs, Adobe, Workday, Teams, 100,000 companies, Johnson
+ Key phrases in article #60: LOB apps, active usage, number, third-party, 40 percent, year
+ Key phrases in article #61: 12 million PSTN users, Teams Phone, market leader, cloud, VoIP, number
+ Key phrases in article #62: Teams Rooms, AI-powered cameras, hybrid workplace, gap, people, office, innovations, More, 60 percent, Fortune 500, employees
+ Key phrases in article #63: new employee experience category, new suite, Microsoft Viva, high-growth TAM, priority, customers, expansive
+ Key phrases in article #64: employee experience, 25 percent, Fortune 500, Viva, organizations, wellbeing, productivity
+ Key phrases in article #65: broad adoption, Commonwealth Bank, Fidelity Investments, segments, industries, Mastercard, AstraZeneca, Schlumberger
+ Key phrases in article #66: revenue growth, Expedia Group, premium offerings, E5 seats, innovation, Microsoft, Asahi, Qualcomm, employees, 60 percent, year
+ Key phrases in article #67: Windows
+ Key phrases in article #68: Windows, people, center
+ Key phrases in article #69: changing market, PCs, quarter, pandemic, share
+ Key phrases in article #70: higher monthly usage, unique productivity capabilities, rich interactive experiences, Windows 11 applications, creative work, time, collaboration, gaming, media, writing, code, people, PC
+ Key phrases in article #71: Azure Virtual Desktop monthly active usage, Windows, year
+ Key phrases in article #72: Hamburg Commercial Bank, The LEGO Group, M&A integration, strong adoption, Cloud PCs, temporary employees, IT costs, Windows, organizations, industry, Kyndryl, Schroders, new
+ Key phrases in article #73: security
+ Key phrases in article #74: top priority, rate, pace, threats, security, organization
+ Key phrases in article #75: comprehensive solutions, 43 trillion signals, 50 categories, cost, complexity
+ Key phrases in article #76: major categories, security revenue, share
+ Key phrases in article #77: top three cloud platforms, multi-cloud, multi-platform infrastructure, cloud provider, Pearson Vue, security stack, digital estate, protection, customers, Vodafone, clouds
+ Key phrases in article #78: organizations
+ Key phrases in article #79: new Entra product family, permissions management, identity governance, identity verification, tools
+ Key phrases in article #80: largest hedge fund, Microsoft Security Experts, security operations, threat detection, Bridgewater Associates, response, world, example, service
+ Key phrases in article #81: LinkedIn
+ Key phrases in article #82: record engagement, 850 million members, job seekers, testament, platform, jobs, learners, skills, marketers, buyers
+ Key phrases in article #83: job candidates, skills filters, employers, work, More, 40 percent, companies, LinkedIn
+ Key phrases in article #84: LinkedIn Talent Solutions, past 12 months, revenue
+ Key phrases in article #85: LinkedIn Marketing Solutions, B2B digital advertising, 5 billion dollars, annual revenue, first time, higher reach, leader, customers, ROI
+ Key phrases in article #86: current headwinds, ad market, opportunity, advertising, long-term
+ Key phrases in article #87: long-term viable ad solutions, new monetization engine, strong data governance, consumer privacy, web, alternative, marketers, publishers
+ Key phrases in article #88: personalized content feed, first-party experiences, Microsoft Start, share, engagement, Edge, Bing
+ Key phrases in article #89: Daily content consumption, categories, news, weather, finance, sports, service
+ Key phrases in article #90: price comparison features, Edge, share, consumers, money, coupon
+ Key phrases in article #91: third-party ad network, largest marketplaces, premium advertising, approach, acquisition, Xandr, world
+ Key phrases in article #92: consumer internet company, Microsoft Advertising, trusted platform, ad innovation, media, monetization
+ Key phrases in article #93: supported subscription offering, exclusive technology, sales partner, first ad, differentiated value, flexible  partner, Netflix, validation, publisher
+ Key phrases in article #94: digital commerce marketing channels, new advertising revenue stream, Home Depot, customer relationships, PromoteIQ, platform, retailers, Kohls, Kroger, Sephora, solutions, ownership, data
+ Key phrases in article #95: 
+ Key phrases in article #96: Xbox Game Pass subscription service, affordable next gen console, Xbox Series S, best value, gaming industry, access, hundreds, games
+ Key phrases in article #97: next gen consoles, previous generation, market leader, North America, three quarters, Xbox, row
+ Key phrases in article #98: Samsung Smart TVs, Xbox Cloud Gaming, Xbox games, new endpoints, 4 million people, Epic Games, Players, Fortnite, browser, date, ecosystem
+ Key phrases in article #99: massive technological shifts, critical moment, closing, focus, customers
+ Key phrases in article #100: durable business models, category products, suite solutions, intense focus, executional excellence, coming year, portfolio, prioritization, opportunity
+ Key phrases in article #101: Amy
+ Key phrases in article #102: good afternoon everyone, AMY HOOD, quarter revenue, constant currency, Satya, Earnings, share
+ Key phrases in article #103: macroeconomic environment, impact, results
+ Key phrases in article #104: US dollar, additional headwind, full quarter, FX, mid-quarter, result, revenue, EPS, 4 cents, share, expectations, April
+ Key phrases in article #105: negative Windows OEM revenue impact, deteriorating PC market, LinkedIn Marketing Solutions, production shutdowns, news advertising, China, May, June, reductions, Search
+ Key phrases in article #106: consumer business, macro challenges, share gains, PC market, quarter, Windows, Edge, browsers
+ Key phrases in article #107: commercial business, largest quarter, long-term commitments, share gains, Q4, platform, Satya, areas, Data, Dynamics, Teams, Security
+ Key phrases in article #108: core annuity sales motions, strong prior year comparable, consistent strong execution, record commitment quarter, 10-million-dollar-plus Microsoft 365 contracts, commercial bookings, constant currency, expectations, increases, number, 100-million-dollar, Azure
+ Key phrases in article #109: Commercial remaining performance obligation, remaining portion, constant currency, next 12 months, annuity mix, revenue, year
+ Key phrases in article #110: Microsoft Cloud revenue, constant currency
+ Key phrases in article #111: Microsoft Cloud gross margin percentage, sales mix shift, cloud services, accounting estimate, useful lives, year, impact, change, improvement, Azure
+ Key phrases in article #112: total company level, total company revenue, operating expense growth, FX, 4 points, expectations, COGS, 2 points
+ Key phrases in article #113: Gross margin dollars, gross margin percentage, constant currency, accounting estimate, sales mix, cloud services, year, impact, change, FX, improvement
+ Key phrases in article #114: total company level, Operating expense, constant currency, cloud engineering, employee severance, Xandr acquisition, key areas, customer deployment, Opex growth, two points, 6 points, investments, LinkedIn, Nuance, decision, operations, Russia, impact, June, headcount, year, sales
+ Key phrases in article #115: higher margin businesses, Operating income, constant currency, operating margins, accounting estimate, cloud services, sales mix, Nuance acquisition, impact, change, FX, improvement
+ Key phrases in article #116: segment results
+ Key phrases in article #117: overall segment results, additional FX headwind, Business Processes, constant currency, segment revenue, Productivity, line, expectations
+ Key phrases in article #118: Office 365 commercial installed base, medium business customer segment, Office commercial revenue, Office 365 commercial revenue, Office 365 commercial seats, frontline worker offerings, new deal volume, strong E5 momentum, base expansion, customer segments, constant currency, higher ARPU, voice value, expectations, workloads, continued, year, small, growth, moderation, security, compliance, Microsoft
+ Key phrases in article #119: Office commercial licensing, period revenue recognition, constant currency, lower mix, contracts
+ Key phrases in article #120: Office consumer revenue, constant currency, continued momentum, Microsoft 365 subscriptions, line, expectations
+ Key phrases in article #121: constant currency, expected growth, new business, cloud growth, Dynamics revenue, expectations, lower, market
+ Key phrases in article #122: weaker online job posts, LinkedIn revenue, constant currency, Marketing Solutions, advertising spend, Talent Solutions, slowdown, quarter
+ Key phrases in article #123: Segment gross margin dollars, gross margin percentage, constant currency, accounting estimate, cloud services, Operating expense, operating income, impact, change, improvement
+ Key phrases in article #124: Intelligent Cloud segment, additional FX headwind, segment results, constant currency, segment revenue, line, expectations
+ Key phrases in article #125: other cloud services revenue, Azure consumption growth, server products, constant currency, slight moderation, customer segments
+ Key phrases in article #126: medium business deal moderation, user business, enterprise mobility, 230 million seats, security, base, impact, small
+ Key phrases in article #127: premises server business, period revenue recognition, constant currency, expectations, expected, number, contracts
+ Key phrases in article #129: Enterprise Services revenue, Microsoft Consulting Services, constant currency, declines
+ Key phrases in article #130: Segment gross margin dollars, gross margin percentage, sales mix shift, constant currency, accounting estimate, Operating expenses, operating income, Azure margins, year, impact, change, improvements, 7 points, Nuance
+ Key phrases in article #131: More Personal Computing, additional FX headwind, constant currency, segment results, guidance range, ad trends, segment revenue, PC
+ Key phrases in article #132: Windows OEM revenue, deteriorating PC market, share gains, pre-pandemic levels, year, volumes
+ Key phrases in article #133: medium business deal moderation, Windows commercial products, cloud services revenue, constant currency, impact, small
+ Key phrases in article #134: Surface revenue, constant currency, commercial sales
+ Key phrases in article #135: news advertising revenue, advertising spend, constant currency, three weeks, Search, TAC, slowdown, inclusion, results, Xandr
+ Key phrases in article #136: Xbox Game Pass subscriptions, lower engagement hours, Xbox hardware revenue, Xbox content, constant currency, services revenue, first-party content, Gaming, line, expectations, monetization, third-party, growth
+ Key phrases in article #138: Windows Commercial cloud services, Segment gross margin dollars, gross margin percentage, constant currency, Operating expenses, operating income, usage
+ Key phrases in article #139: total company results
+ Key phrases in article #140: data center investments, significant customer demand, Capital expenditures, finance leases, usage signals, line, expectations, Cash
+ Key phrases in article #141: strong cloud billings, Free cash flow, operations, collections, year
+ Key phrases in article #142: negative three-point impact, net investment gains, Equity market declines, net investment losses, net losses, market losses, equity portfolio, other income, EPS growth, expense, investments
+ Key phrases in article #143: effective tax rate
+ Key phrases in article #144: full fiscal year, share repurchases, total cash, shareholders, dividends
+ Key phrases in article #145: 
+ Key phrases in article #146: full year, next quarter, fiscal year, commentary, impact, Activision, end
+ Key phrases in article #147: full year commentary, FY23
+ Key phrases in article #148: four to six years, fiscal year 23 operating income, historical accounting useful lives, full fiscal year, depreciable useful life, future asset purchases, network equipment assets, asset balances, cloud infrastructure, balance sheet, depreciation expense, outstanding balances, first quarter, Additional details, earnings materials, start, FY23, server, June, Investments, software, advances, technology, change, timing, result, guidance, today, call, mechanics
+ Key phrases in article #149: full-year revenue growth, operating expense growth, current rates, 4-point impact, FX, headwinds, H1, H2., COGS, 2 points
+ Key phrases in article #150: full year business outlook, current macro environment, operating income growth, constant currency basis, many years, FX volatility, US dollars, double-digit revenue, level, company, performance
+ Key phrases in article #151: prior year headcount investments, Operating expense growth, key growth areas, Revenue growth, continued momentum, commercial business, share gains, Xandr acquisitions, focus, portfolio, FY23, course, rate, productivity, Nuance
+ Key phrases in article #152: FY23 full year margins, useful life benefit, operating margins, significant level, constant currency, latest change, US dollars, FX headwind, investment, future
+ Key phrases in article #153: FY23 effective tax rate
+ Key phrases in article #154: US dollar basis, first quarter
+ Key phrases in article #155: stronger US dollar, operating expense growth, revenue growth in, More Personal Computing, total revenue growth, negative FX impact, total COGS, current rates, Business Processes, Intelligent Cloud, 5 points, 3 points, segments, 6 points, Productivity
+ Key phrases in article #156: medium sized business segment, differentiated market position, PC market demand, news advertising revenue, advertising spend, customer demand, Continued weakness, Windows OEM, solution portfolio, consistent execution, Microsoft Cloud, strong quarter, share growth, trends, June, Surface, LinkedIn, Search, moderation, small
+ Key phrases in article #157: core annuity sales motions, larger long-term Azure contracts, flat expiry base, bookings growth rate, commercial bookings, healthy growth, strong execution, growing mix, quarterly volatility, commitment, platform, reminder, timing
+ Key phrases in article #158: Microsoft Cloud gross margin percentage, Q1 gross margin percentage, latest accounting estimate change, revenue mix shift, margin improvement, Nuance acquisition, year, impact, Azure, continued
+ Key phrases in article #159: normal quarterly spend variability, cloud infrastructure buildout, capital expenditures, sequential decrease, dollar basis, timing
+ Key phrases in article #160: guidance
+ Key phrases in article #161: In Productivity, Business Processes, constant currency, revenue
+ Key phrases in article #162: constant currency basis, US dollar growth, period revenue recognition, Office 365 revenue growth, seat growth, ARPU growth, Office Commercial, customer segments, two points, FX impact, segment level, premises business, prior year, high 30s, contracts, mid
+ Key phrases in article #163: low to mid-single digits, Office consumer, Microsoft 365 subscriptions, revenue
+ Key phrases in article #164: low to mid-teens revenue growth, strong engagement, advertising spend, LinkedIn, platform, results, slowdown, hiring
+ Key phrases in article #165: mid to high teens, revenue growth, share growth, Dynamics
+ Key phrases in article #166: Intelligent Cloud, constant currency, revenue
+ Key phrases in article #167: period revenue recognition, quarterly variability, user business, Azure, reminder, mix, contracts
+ Key phrases in article #168: constant currency basis, Microsoft 365 suite momentum, Azure revenue growth, strong growth, growth rates, 3 points, consumption, user, business, moderation, size, base
+ Key phrases in article #169: premises server business, prior year comparable, period revenue recognition, low-single digits, strong demand, hybrid offerings, benefit, contracts
+ Key phrases in article #170: Microsoft Consulting Services, Enterprise Services, revenue growth, low-single digits, Enterprise Support, declines
+ Key phrases in article #171: More Personal Computing, constant currency, revenue
+ Key phrases in article #172: Windows 11 revenue deferral, Windows OEM, high-single digits, continued weakness, PC market, impact
+ Key phrases in article #173: low single digits, Surface, revenue
+ Key phrases in article #174: first party revenue, news advertising revenue, high teens, overall Search, TAC, mid, inclusion, Xandr
+ Key phrases in article #175: Game Pass subscribers, first party content, Xbox content, single digits, services revenue, Gaming, declines, growth, consoles
+ Key phrases in article #176: company guidance
+ Key phrases in article #177: Total company headcount, constant currency, operating expense, 11 thousand hires, cloud engineering, customer deployment, commercial sales, COGS, LinkedIn
+ Key phrases in article #178: other income, interest income, market gains, equity portfolio, quarterly volatility, expense, reminder, losses
+ Key phrases in article #179: Q1 effective tax rate
+ Key phrases in article #180: Q1 cash flow, TCJA transition tax, tax payments, Q1 FY22, intangible property, reminder, transfer
+ Key phrases in article #181: compelling customer value, continued share gains, strong demand, dynamic environment, future growth, intense focus, operational excellence, execution discipline, closing, products, services, commitment, platform, period
+ Key phrases in article #182: Q&A, Brett
+ Key phrases in article #183: BRETT IVERSEN, Q&A., one question, Amy, respect, others, call, participants, Jessi, instructions
+ Key phrases in article #184: Operator direction
+ Key phrases in article #185: commercial cloud bookings, KEITH WEISS, Morgan Stanley, impressive results, difficult environment, guys, question
+ Key phrases in article #186: typical Q4 end, consolidating impact, price performance, big deals, Q4., largest, number, type, environment, Microsoft, market, macro, benefit, guys, year, budget, kind, thing
+ Key phrases in article #187: SATYA NADELLA, macro environment, Keith, question, record, context, Q4., something, strengths
+ Key phrases in article #188: two things, MACC deals, long time, IT spend, digital tech, macro environment, bookings number, size, percentage, GDP, business, sense, numbers
+ Key phrases in article #189: second aspect, hybrid work, Power Platform, suite value, category products, long-term basis, layer, stack, infra, data, security, gains, window, terms, numbers, indicators
+ Key phrases in article #190: KEITH WEISS, Morgan Stanley, guys
+ Key phrases in article #191: BRETT IVERSEN, next question, Keith, Jessi
+ Key phrases in article #192: Operator Direction
+ Key phrases in article #193: MARK MOERDLER, macro recession, slowdown recession, advertising business, consumer Internet, real recession, Bernstein, congratulations, quarter, concerns, everyone, cloud, Microsoft, case, IaaS, PaaS, Azure, resiliency, exposure, SMB
+ Key phrases in article #194: overall macroeconomic situation, SATYA NADELLA, demand side, Amy, Keith, question, Mark, consumers, SMBs, results, quarter, Azure, sense, businesses, less
+ Key phrases in article #195: best way, demand uncertainty, Azure numbers, big benefits, macroeconomic crisis, bigger winner, deflationary force, public cloud, example, spend, fact, things, increased, shift, course, bill, field, customers, volatility
+ Key phrases in article #196: consumer driven businesses, Azure numbers, core commercial, SMBs, level, strength, company
+ Key phrases in article #197: cloud-native, serverless, container-based types, triple digit growth, Container App Services, other one, new frontier, two numbers, Cosmos DB, two things, different frontier, new applications, people, efficiency
+ Key phrases in article #198: way, IT, long, time
+ Key phrases in article #199: BRETT IVERSEN, next question, Mark, Jessi
+ Key phrases in article #200: Operator Direction
+ Key phrases in article #201: BRENT THILL, double-digit guidance, worsening macroenvironment, similar environment, Jefferies, Amy, type, growth
+ Key phrases in article #202: AMY HOOD, current macroenvironment, three things, fiscal year, Brent, account, June, course, comments, H1, time
+ Key phrases in article #203: second thing, past year, OEM comparables, bigger headwind, course, USD, FX, H1, H2., OpEx., 11,000 hires, Q1., Nuance, Xandr, acquisitions, lot, hiring, productivity
+ Key phrases in article #204: shape, things, account, trends, June
+ Key phrases in article #205: BRETT IVERSEN, next question, Brent, Jessi
+ Key phrases in article #206: Operator Direction
+ Key phrases in article #207: robust, large new deal activity, Azure constant currency growth, Azure business, KARL KEIRSTEAD, September quarter, 3-point decel, June quarter, little bit, consumption softness, next couple, UBS, Amy, Satya, guidance, quarters, terms, slope, likely, deceleration
+ Key phrases in article #208: AMY HOOD, Karl, commentary
+ Key phrases in article #209: consumption side, customer segments, new workloads, consumption deceleration, Karl, things, Satya, comments, course, geographies, customers, optimization, frame, Q1, guidance, continued, 3 points, quarter
+ Key phrases in article #210: pure consumption number, same time, quick time, larger focus, patterns, workloads, Satya, share, agreements, customers, deployment, projects, money
+ Key phrases in article #211: BRETT IVERSEN, next question, Karl, Jessi
+ Key phrases in article #212: Operator Direction
+ Key phrases in article #213: different spending priorities, RAIMO LENSCHOW, comprehensive solution, several aspects, Barclays, lines, customers, environment, Office, terms, willingness
+ Key phrases in article #214: user growth numbers, two numbers, SATYA NADELLA, E5 growth, suite value, seat growth, 14% growth, Amy, seats, Microsoft, core
+ Key phrases in article #215: AMY HOOD, E5 suite, category level, suite level, little bit, momentum, value, customers, SKU, deployment, usage, resources
+ Key phrases in article #216: past six months, bookings numbers, strong point, existing contract, investment, hiring, areas, customers, SKU, team, E5, terms, renewals, people
+ Key phrases in article #217: RAIMO LENSCHOW, Barclays, sense, Congrats
+ Key phrases in article #218: BRETT IVERSEN, next question, Raimo, Jessi
+ Key phrases in article #219: Operator Direction
+ Key phrases in article #220: PHIL WINSLOW, Credit Suisse, strong quarter, question, Congrats
+ Key phrases in article #221: supply chain issues, capital spending, demand trends, customer behavior, reserved instances, Amy, comments, utilization, Azure, sense, sort, capacity, changes, focus
+ Key phrases in article #222: good demand signal, strong spending quarter, AMY HOOD, big driver, datacenter spend, existing datacenters, sequential decline, capital spend, new builds, Q4, growth, capacity, Q1, terms, timing, shipments
+ Key phrases in article #223: good place, global basis, new units, new usage, capacity, customers, datacenters
+ Key phrases in article #224: 
+ Key phrases in article #225: SATYA NADELLA, reserved instances, price discount, growth numbers, customers, kind, optimization, consumption, place
+ Key phrases in article #226: BRETT IVERSEN, Phil. Jessi, next question
+ Key phrases in article #227: Operator Direction
+ Key phrases in article #228: small business segment, KIRK MATERNE, Evercore ISI, little bit, question, Amy, weakness, opportunity, bundles, suite, drag, color, part
+ Key phrases in article #229: AMY HOOD, great question, Office EMS, user service, Windows Commercial, new deals, SMB segments, customer base, Kirk, Azure, Microsoft, weakness, point, SKUs, type, audience
+ Key phrases in article #230: small business customers, best value props, great value, last quarter, couple, things, Kirk, partner, price, middle, transition
+ Key phrases in article #231: partner transition work, second thing, spot, macro-weakness, comment
+ Key phrases in article #232: right lead, great value, important caveat, seat growth, little bit, Office 365 growth, spot, point, less, suites, way, quarter, decel
+ Key phrases in article #233: one last question, BRETT IVERSEN, Kirk, Jessi, time
+ Key phrases in article #234: Operator Direction
+ Key phrases in article #235: ALEX ZUKIN, Wolfe Research, consumption commentary, guys, respect, Azure
+ Key phrases in article #236: longer duration contracts, moderating projects starts, general optimization conversations, confident posture, consumption dynamics, different linearity, consumption pace, global basis, different patterns, guidance, visibility, customers, spend
+ Key phrases in article #237: AMY HOOD, customer segments, specific geo, different pattern, other geo, Satya, June, quarter, deceleration, consumption, general, geos, logic, Q1.
+ Key phrases in article #238: new project growth, new projects, reserved instance, existing workloads, purchase patterns, Azure commitments, large contracts, actual consumption, Satya, customers, guide, course, year, time, help, plots, optimization
+ Key phrases in article #239: consistent deceleration, point
+ Key phrases in article #240: Q&A portion, BRETT IVERSEN, earnings call, Alex, today
+ Key phrases in article #241: AMY HOOD
+ Key phrases in article #242: SATYA NADELLA
+ Key phrases in article #243: Operator Direction
+ Key phrases in article #244: 
+ Key phrases in article #246: Summary
+ Key phrases in article #247: Constant Currency, Cloud
+ Key phrases in article #248: Company, focus
+ Key phrases in article #249: Focus, advantage
+ Key phrases in article #250: Prioritization
+ Key phrases in article #251: bigger deals, 100B
+ Key phrases in article #252: E5 seats
+ Key phrases in article #253: Security revenue
+ Key phrases in article #254: LinkedIn
+ Key phrases in article #255: constant currency, Quarter
+ Key phrases in article #256: constant currency, EPS
+ Key phrases in article #257: Current headwinds
+ Key phrases in article #258: 
+ Key phrases in article #259: Production shutdowns, PC market, China
+ Key phrases in article #260: Reduction, Ads
